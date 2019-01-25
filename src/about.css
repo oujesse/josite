@@ -1,0 +1,174 @@
+.aboutBG {
+    background-color: #D7EDFE;
+    width: 100%;
+    height: 100%;
+
+}
+
+.innerBG {
+    background-color: white;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+.about {
+    width: 90%;
+    margin: auto;
+}
+
+.aboutHeader {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    width: 100%;
+    padding-top: 0.5%;
+    color: #63b1e9;
+}
+
+.aboutBody {
+    overflow: hidden;
+}
+
+.mePic {
+    width: 20%;
+    float: left;
+    position: relative;
+}
+
+.mePic img{
+    width: 100%;
+}
+
+.aboutParagraph {
+    width: 75%;
+    padding-left: 5%;
+    position: relative;
+    float: right;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.aboutParagraph p {
+    line-height: 35px;
+}
+
+.secSplit {
+    padding: 30px 0;
+}
+
+.aboutSkills {
+    width: 100%;
+    overflow: hidden;
+}
+
+.aboutHeader2 p{
+    width: 100%;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    margin: 0;
+}
+
+.skillCol {
+    width: 45%;
+    float: left;
+    padding-right: 10%;
+}
+
+.skillCol2 {
+    width: 45%;
+    float: left;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.skillBreak {
+    padding-bottom: 5px;
+}
+
+th {
+    border: 1px solid orange;
+    width: 70%;
+}
+
+tr {
+    width: 100%;
+}
+
+.skillText {
+    font-size: 15px;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.python {
+    background: linear-gradient(to right, orange 95%, white 5%);
+
+}
+
+.java {
+    background: linear-gradient(to right, orange 85%, white 15%);
+}
+
+.js {
+    background: linear-gradient(to right, orange 75%, white 25%);
+}
+
+.mo {
+    background: linear-gradient(to right, orange 75%, white 25%);
+}
+
+.c {
+    background: linear-gradient(to right, orange 65%, white 55%);
+}
+
+.cplus {
+    background: linear-gradient(to right, orange 55%, white 45%);
+}
+
+.rea {
+    background: linear-gradient(to right, orange 65%, white 35%);
+}
+
+.pshop {
+    background: linear-gradient(to right, orange 80%, white 20%);
+}
+
+.courses {
+    width: 100%;
+    overflow: hidden;
+}
+
+.courseCol {
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+
+.courseCol2 {
+    width: 50%;
+    float: left;
+    margin: 0;
+}
+
+.course {
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+.courseName {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.courseSub {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    font-size: 15px;
+    color: #515151;
+}

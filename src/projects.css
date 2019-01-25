@@ -1,0 +1,74 @@
+.projBG {
+    background-color: #D7EDFE;
+    width: 100%;
+    height: 100%;
+}
+
+.innerProjBG {
+    background-color: white;
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+.proj {
+    width: 90%;
+    margin: auto;
+}
+
+.projHeader {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: lighter;
+    width: 100%;
+    padding-top: 0.5%;
+    color: #63b1e9;
+}
+
+.projDetails {
+    height: 100%;
+    margin-right: 10%;
+    display: table;
+}
+
+.projDetailsInner {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    line-height: 23px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.projTitle {
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    color: deepskyblue;
+    table-layout:fixed
+}
+
+.projTitle a {
+    text-decoration-line: none;
+    cursor: pointer;
+}
+
+.projTitle a:hover {
+    text-decoration-line: underline;
+}
+
+.projGit {
+    display: table-row;
+}
+
+.projDesc {
+
+}
+
+.picCell {
+    border: 1px solid black;
+    display: table-cell;
+    width: 13vw;
+    height: 13vw;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    overflow: hidden;
+}
