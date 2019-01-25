@@ -13,6 +13,11 @@ const projs = {
             "party libraries like django-crontab, suffix-trees, and psycopg2.",
         "pic" : require('./pics/techcrunch.png')
     },
+    "ChoreChain" : {
+        "g" : "https://github.com/oujesse/ChoreChainClone",
+        "d" : "This Fall 2018 Blockchain at Berkeley internal project is aimed at incentivizing chore completion in households. The project is a series of Ethereum smart contracts that records users' chore completions through permissioned voting within households and assigns ratings to those users based on their record of chore completion compared to their other housemates. This rating is then seen by other users, and when those users wish to look for new housemates to live with, they use the rating. This ensures that good housemates are matched with other good housemates, and it incentivizes users to do their chores. I created the chore and rating smart contracts, and I also built the Web3 interface.",
+        "pic" : require('./pics/chorechain.png')
+    },
     "Fintel" : {
         "newPage" : "",
         "g" : "https://github.com/ultraeric/hack-intuit-3.git",
@@ -25,7 +30,8 @@ const projs = {
             "expenses, the app allowed the users to input their expenses manually, and it also featured a receipt scanner where " +
             "users could take a picture of their receipt and send it to the chatbot which would then use an ML algorithm " +
             "to input the data automatically. The app also featured a risk factor calculator which output how at risk the user " +
-            "was to falling into poverty based on the user's demographic and the data given at the hackathon."
+            "was to falling into poverty based on the user's demographic and the data given at the hackathon.",
+        "pic" : require('./pics/Fintel.png')
     },
     "ML BRDF Converter/Upsampler" : {
         "url" : "https://97hongjun.github.io/cs184_deep_rendering/",
